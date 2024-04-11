@@ -37,7 +37,7 @@ The smart contract used in this marketplace is written in Solidity, a programmin
 
 The contract also includes event logging to track important actions and changes within the marketplace. This provides transparency and auditability of the marketplace operations.
 
-For more details on the smart contract implementation, please refer to the [contract code](/path/to/smart-contract.sol) in this repository.
+For more details on the smart contract implementation, please refer to the [contract code](/contracts/NFTMarketplace.sol) in this repository.
 
 ## Getting Started
 
