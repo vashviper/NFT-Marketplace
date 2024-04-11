@@ -4,6 +4,11 @@
 This repository contains the code for a basic NFT Marketplace built using Solidity and JavaScript. The marketplace allows users to buy and sell non-fungible tokens (NFTs) on the Ethereum blockchain.
 This code is based on the NFT Marketplace tutorial at [Build your own NFT Marketplace from Scratch](https://docs.alchemy.com/alchemy/) built by [alchemy.com](https://alchemy.com)
 
+## Screenshots
+![Screenshot 1](screenshots/ss1.JPG)
+![Screenshot 2](screenshots/ss2.JPG)
+![Screenshot 3](screenshots/ss3.JPG)
+
 ## Features
 
 ### 1. Create and Mint NFTs
